@@ -1,0 +1,4 @@
+pyttsx3
+PyQt5
+webbrowser
+
